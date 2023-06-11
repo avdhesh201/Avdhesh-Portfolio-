@@ -1,6 +1,6 @@
 # Avdhesh-Portfolio-
 
-This personal portfolio is Developed using ReactJS  and deployed using vercel. 
+This personal portfolio is developed using ReactJS and deployed using vercel. 
 It represents my work, skills, achievements, skills, and experience other details.
 here some key components are:
 
